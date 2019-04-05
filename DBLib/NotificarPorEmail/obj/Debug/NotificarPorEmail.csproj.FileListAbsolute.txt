@@ -1,0 +1,16 @@
+C:\Users\al0nc3ll0\source\repos\NotificarPorEmail\NotificarPorEmail\obj\Debug\NotificarPorEmail.csprojAssemblyReference.cache
+C:\Users\al0nc3ll0\source\repos\NotificarPorEmail\NotificarPorEmail\obj\Debug\NotificarPorEmail.csproj.CoreCompileInputs.cache
+C:\Users\al0nc3ll0\source\repos\NotificarPorEmail\NotificarPorEmail\bin\Debug\NotificarPorEmail.dll
+C:\Users\al0nc3ll0\source\repos\NotificarPorEmail\NotificarPorEmail\bin\Debug\NotificarPorEmail.pdb
+C:\Users\al0nc3ll0\source\repos\NotificarPorEmail\NotificarPorEmail\obj\Debug\NotificarPorEmail.dll
+C:\Users\al0nc3ll0\source\repos\NotificarPorEmail\NotificarPorEmail\obj\Debug\NotificarPorEmail.pdb
+C:\Users\al0nc3ll0\source\repos\ModUsuarios\NotificarPorEmail\NotificarPorEmail\bin\Debug\NotificarPorEmail.dll
+C:\Users\al0nc3ll0\source\repos\ModUsuarios\NotificarPorEmail\NotificarPorEmail\bin\Debug\NotificarPorEmail.pdb
+C:\Users\al0nc3ll0\source\repos\ModUsuarios\NotificarPorEmail\NotificarPorEmail\obj\Debug\NotificarPorEmail.csprojAssemblyReference.cache
+C:\Users\al0nc3ll0\source\repos\ModUsuarios\NotificarPorEmail\NotificarPorEmail\obj\Debug\NotificarPorEmail.csproj.CoreCompileInputs.cache
+C:\Users\al0nc3ll0\source\repos\ModUsuarios\NotificarPorEmail\NotificarPorEmail\obj\Debug\NotificarPorEmail.dll
+C:\Users\al0nc3ll0\source\repos\ModUsuarios\NotificarPorEmail\NotificarPorEmail\obj\Debug\NotificarPorEmail.pdb
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\NotificarPorEmail\bin\Debug\NotificarPorEmail.dll
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\NotificarPorEmail\bin\Debug\NotificarPorEmail.pdb
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\NotificarPorEmail\obj\Debug\NotificarPorEmail.dll
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\NotificarPorEmail\obj\Debug\NotificarPorEmail.pdb

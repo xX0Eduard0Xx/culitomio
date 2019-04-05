@@ -1,0 +1,50 @@
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\AppDePrueba\obj\Debug\AppDePrueba.csprojResolveAssemblyReference.cache
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\AppDePrueba\obj\Debug\AppDePrueba.frmCalifiMandado.resources
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\AppDePrueba\obj\Debug\AppDePrueba.frmCalifiServicio.resources
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\AppDePrueba\obj\Debug\AppDePrueba.frmConsulta.resources
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\AppDePrueba\obj\Debug\AppDePrueba.frmVentanaPrincipal.resources
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\AppDePrueba\obj\Debug\AppDePrueba.Properties.Resources.resources
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\AppDePrueba\obj\Debug\AppDePrueba.csproj.GenerateResource.Cache
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\AppDePrueba\bin\Debug\AppDePrueba.exe.config
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\AppDePrueba\bin\Debug\AppDePrueba.exe
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\AppDePrueba\bin\Debug\AppDePrueba.pdb
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\AppDePrueba\bin\Debug\ModCalificacion.dll
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\AppDePrueba\bin\Debug\DBLib.dll
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\AppDePrueba\bin\Debug\MySql.Data.dll
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\AppDePrueba\bin\Debug\Google.Protobuf.dll
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\AppDePrueba\bin\Debug\ModCalificacion.pdb
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\AppDePrueba\bin\Debug\DBLib.pdb
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\AppDePrueba\bin\Debug\MySql.Data.xml
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\AppDePrueba\obj\Debug\AppDePrueba.exe
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\AppDePrueba\obj\Debug\AppDePrueba.pdb
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\AppDePrueba\obj\Debug\AppDePrueba.frmConsultarMiServicio.resources
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\AppDePrueba\obj\Debug\AppDePrueba.UserControlPanelCalificaciones.resources
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\AppDePrueba\obj\Debug\AppDePrueba.frmModificarCalifiServicio.resources
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\AppDePrueba\bin\Debug\AppDePrueba.exe.config
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\AppDePrueba\obj\Debug\AppDePrueba.exe
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\AppDePrueba\obj\Debug\AppDePrueba.pdb
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\AppDePrueba\obj\Debug\AppDePrueba.csprojResolveAssemblyReference.cache
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\AppDePrueba\obj\Debug\AppDePrueba.frmCalifiMandado.resources
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\AppDePrueba\obj\Debug\AppDePrueba.frmCalifiServicio.resources
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\AppDePrueba\obj\Debug\AppDePrueba.frmConsulta.resources
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\AppDePrueba\obj\Debug\AppDePrueba.frmConsultarMiServicio.resources
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\AppDePrueba\obj\Debug\AppDePrueba.frmModificarCalifiServicio.resources
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\AppDePrueba\obj\Debug\AppDePrueba.frmVentanaPrincipal.resources
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\AppDePrueba\obj\Debug\AppDePrueba.Properties.Resources.resources
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\AppDePrueba\obj\Debug\AppDePrueba.UserControlPanelCalificaciones.resources
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\AppDePrueba\obj\Debug\AppDePrueba.csproj.GenerateResource.Cache
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\AppDePrueba\bin\Debug\AppDePrueba.exe
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\AppDePrueba\bin\Debug\AppDePrueba.pdb
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\AppDePrueba\bin\Debug\ModCalificacion.dll
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\AppDePrueba\bin\Debug\DBLib.dll
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\AppDePrueba\bin\Debug\MySql.Data.dll
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\AppDePrueba\bin\Debug\Google.Protobuf.dll
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\AppDePrueba\bin\Debug\ModCalificacion.pdb
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\AppDePrueba\bin\Debug\DBLib.pdb
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\AppDePrueba\bin\Debug\MySql.Data.xml
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\AppDePrueba\bin\Debug\ModUsuarios.dll
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\AppDePrueba\bin\Debug\ProyVentanasPrueba.exe
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\AppDePrueba\bin\Debug\NotificarPorEmail.dll
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\AppDePrueba\bin\Debug\ProyVentanasPrueba.pdb
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\AppDePrueba\bin\Debug\ModUsuarios.pdb
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\AppDePrueba\bin\Debug\NotificarPorEmail.pdb

@@ -1,0 +1,20 @@
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\ModCalificacion\obj\Debug\ModCalificacion.csprojResolveAssemblyReference.cache
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\ModCalificacion\bin\Debug\ModCalificacion.dll
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\ModCalificacion\bin\Debug\ModCalificacion.pdb
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\ModCalificacion\bin\Debug\DBLib.dll
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\ModCalificacion\bin\Debug\MySql.Data.dll
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\ModCalificacion\bin\Debug\Google.Protobuf.dll
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\ModCalificacion\bin\Debug\DBLib.pdb
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\ModCalificacion\bin\Debug\MySql.Data.xml
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\ModCalificacion\obj\Debug\ModCalificacion.dll
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\ModCalificacion\obj\Debug\ModCalificacion.pdb
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\ModCalificacion\bin\Debug\ModCalificacion.dll
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\ModCalificacion\bin\Debug\ModCalificacion.pdb
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\ModCalificacion\bin\Debug\DBLib.dll
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\ModCalificacion\bin\Debug\MySql.Data.dll
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\ModCalificacion\bin\Debug\Google.Protobuf.dll
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\ModCalificacion\bin\Debug\DBLib.pdb
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\ModCalificacion\bin\Debug\MySql.Data.xml
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\ModCalificacion\obj\Debug\ModCalificacion.csprojResolveAssemblyReference.cache
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\ModCalificacion\obj\Debug\ModCalificacion.dll
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\ModCalificacion\obj\Debug\ModCalificacion.pdb

@@ -1,0 +1,16 @@
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\DBLib\obj\Debug\DBLib.csprojResolveAssemblyReference.cache
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\DBLib\bin\Debug\DBLib.dll
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\DBLib\bin\Debug\DBLib.pdb
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\DBLib\bin\Debug\MySql.Data.dll
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\DBLib\bin\Debug\Google.Protobuf.dll
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\DBLib\bin\Debug\MySql.Data.xml
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\DBLib\obj\Debug\DBLib.dll
+C:\Users\jorge\Desktop\basedatosServiHMO\estees uno nuevo\DBLib\DBLib\obj\Debug\DBLib.pdb
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\DBLib\bin\Debug\DBLib.dll
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\DBLib\bin\Debug\DBLib.pdb
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\DBLib\bin\Debug\MySql.Data.dll
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\DBLib\bin\Debug\Google.Protobuf.dll
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\DBLib\bin\Debug\MySql.Data.xml
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\DBLib\obj\Debug\DBLib.csprojResolveAssemblyReference.cache
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\DBLib\obj\Debug\DBLib.dll
+C:\Users\jorge\Desktop\basedatosServiHMO\ProyectoCalificacion\DBLib\DBLib\obj\Debug\DBLib.pdb
